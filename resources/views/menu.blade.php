@@ -20,12 +20,13 @@
 
     <main>
         <section class="mx-auto flex max-w-7xl items-center justify-center" aria-label="Global">
-            <div class="flex lg:flex-1 items-center justify-center bg-white p-4 m-0 mt-6">
-              <a href="menu">
-                <h2 class="text-lg font-semibold leading-relaxed text-green-700">MENU</h2>
-              </a>
+            <div class="flex flex-col lg:flex-1 items-center justify-center bg-white p-4 m-0 mt-6">
+                <h2 class="text-lg font-semibold leading-relaxed text-green-700">PIZZA</h2>
+                <p>Our dough, made from a preferment "biga" and a mixture of italian flours type 0 and 1, goes through a double leaving process during 48 H</p>
             </div>
         </section>
+
+        <hr>
 
         <section>
             <div class="bg-white">
